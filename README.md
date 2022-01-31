@@ -67,11 +67,15 @@ For simplicity, mesh will be equal in both spatial dimensions:
 
 ## Single slit experiment. Difraction pattern
 
-https://user-images.githubusercontent.com/79655304/151732786-84a77ec1-2d6c-4dcc-96d8-e2d8fd60e4ce.mp4
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79655304/151773017-bc3a94e9-81bb-4cf2-ade7-da8a8e42b66b.gif" width="800">
+</div>
 
 ## Double slit experiment. Difraction-interference pattern
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79655304/151773029-d97ae4b9-1549-4f6d-a446-62eb4dc153c6.gif" width="800">
+</div>
 
-https://user-images.githubusercontent.com/79655304/151731411-84bb005f-219c-4fd4-b360-a3cd267c929c.mp4
 
 
 
