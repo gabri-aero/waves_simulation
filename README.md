@@ -2,6 +2,12 @@
 - A variety of numerical simulations of 2D wave equation using Finite Difference Method. 
 - Simulation-based analysis of wave basic phenomena: diffraction and interference.
 
+<p float="center" align="center">
+  <img src="https://user-images.githubusercontent.com/79655304/151733788-0544b0b0-2e11-406e-bba2-7bef060e8695.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/79655304/151733790-4ee89708-a536-4648-94a6-0dfff0357faa.gif" width="400">
+</p>
+
+
 ## The Wave Equation
 <div align="center">
 <img src="https://latex.codecogs.com/svg.image?u=u(x,y,t)" title="u=u(x,y,t)" /> <br>
@@ -58,9 +64,16 @@ For simplicity, mesh will be equal in both spatial dimensions:
 <img style="border: 1px solid; color: black;" src="https://latex.codecogs.com/svg.image?u_{i,j,k&plus;1}=-u_{i,j,k-1}&plus;2u_{i,j,k}&plus;k^2\frac{u_{i-1,j,k}&plus;u_{i&plus;1,j,k}&plus;u_{i,j-1,k}&plus;u_{i,j&plus;1,k}-4u_{i,j,k}}{h^2}" title="u_{i,j,k+1}=-u_{i,j,k-1}+2u_{i,j,k}+k^2\frac{u_{i-1,j,k}+u_{i+1,j,k}+u_{i,j-1,k}+u_{i,j+1,k}-4u_{i,j,k}}{h^2}" />
 </div>
 
-## Double slit experiment
+
+## Single slit experiment. Difraction pattern
+
+https://user-images.githubusercontent.com/79655304/151732786-84a77ec1-2d6c-4dcc-96d8-e2d8fd60e4ce.mp4
+
+## Double slit experiment. Difraction-interference pattern
 
 https://user-images.githubusercontent.com/79655304/151731411-84bb005f-219c-4fd4-b360-a3cd267c929c.mp4
+
+
 
 
 
